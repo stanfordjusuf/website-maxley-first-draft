@@ -47,12 +47,7 @@ function Hero() {
             id="promotion1"
             className="carousel-item relative w-full flex flex-col items-center"
           >
-            <video
-              autoPlay
-              muted
-              loop
-              className="w-full absolute w-full h-full"
-            >
+            <video controls className="w-full absolute w-full h-full">
               <source src="https://drive.google.com/uc?id=1iK8BnwXpUoFaU3HxasKab6YFRZpo0PP9&export=download" />
             </video>
             <div className="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
@@ -76,12 +71,7 @@ function Hero() {
             </div>
           </div>
           <div id="promotion2" className="carousel-item relative w-full">
-            <video
-              autoPlay
-              muted
-              loop
-              className="w-full absolute w-full h-full"
-            >
+            <video controls className="w-full absolute w-full h-full">
               <source src="https://drive.google.com/uc?id=1cKceFVj0_DCYB2t6HYv8mMc8lO7T4hhm&export=download" />
             </video>
             <div className="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
