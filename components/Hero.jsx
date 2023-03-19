@@ -135,7 +135,7 @@ function Hero() {
             </div>
           </div>
         </div>
-        <div>
+        <div style={{backgroundColor: '#fcac3c'}}>
           <div className="section news-section text-center flex flex-col justify-center items-center ">
             <h1 className="text-4xl font-bold text-white">
               You can find the latest information or events about Maxley here!
