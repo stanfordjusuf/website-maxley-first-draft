@@ -18,14 +18,13 @@ export default function about() {
           <br />
           <p className="text-md shrink min-w-min">
             Maxley adalah sebuah Student Dormitory yang berdiri sejak tahun 2015,
-            terletak di Edutown, seberang Universitas Prasetya Mulya, sudah
-            bertahun-tahun Maxley dipercayakan oleh sebagian besar Mahasiswa
-            Universitas Prasetya Mulya sebagai tempat tinggal mereka selama
-            menjalani kegiatan kampus, kini sampai detik ini kami bangga melayani
-            dan akan terus siap menjadi Student Domitory yang dapat dipercayakan
-            dan diandalkan oleh Mahasiswa. Selain Student Domitory kami juga
-            menerima tamu sewa seperti Karyawan/ Staff dan Daily Rent sesuai
-            dengan ketentuan yang berlaku.
+            terletak di Edutown, sudah bertahun-tahun Maxley dipercayakan oleh
+            sebagian besar Mahasiswa Universitas Prasetya Mulya sebagai tempat
+            tinggal mereka selama menjalani kegiatan kampus, kini sampai detik ini
+            kami bangga melayani dan akan terus siap menjadi Student Domitory yang
+            dapat dipercayakan dan diandalkan oleh Mahasiswa. Selain Student
+            Domitory kami juga menerima tamu sewa seperti Karyawan/ Staff dan
+            Daily Rent.
           </p>
           <br />
           <a
