@@ -4,7 +4,7 @@ import Link from 'next/link';
 const Footer = () => (
   <footer
     className="footer bg-base-200 text-base-content"
-    style={{ color: 'white' }}
+    style={{ color: 'black', backgroundColor: '#fcac3c' }}
   >
     <div className="justify-self-center">
       <Link href="/">
