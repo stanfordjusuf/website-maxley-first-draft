@@ -6,7 +6,7 @@ export default function about() {
       <div className="grid md:grid-cols-1 lg:grid-cols-2 h-screen">
         <div className="bg-black">
           <img
-            src="https://i.ibb.co/3CcL9SB/Living-Room.jpg"
+            src="https://i.ibb.co/bsQcQsg/IMG-4848.png"
             className="h-full"
           />
         </div>
