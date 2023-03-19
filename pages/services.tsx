@@ -22,8 +22,8 @@ export default function services() {
               <div className="card-body">
                 <h2 className="card-title underline">Rooms</h2>
                 <p style={{ color: 'white' }}>
-                  Maxley menyediakan 200 kamar dengan berbagai tipe serpeti
-                  Single Bed, Double Bed dan Suites.Room dengan kapasitas
+                  Maxley menyediakan 200 kamar dengan berbagai tipe seperti
+                  Single Bed, Double Bed dan Suites Room dengan kapasitas
                   maksimum 2 orang. Maxley merupakan Student Domitory yang
                   dibangun untuk mahasiswa yang membutuhkan tempat tinggal dekat
                   kampus.
