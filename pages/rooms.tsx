@@ -35,6 +35,8 @@ export default function rooms() {
                     <li>Bathroom</li>
                     <li>Water Heater</li>
                     <li>Balcony</li>
+                    <br />
+                    <li>Total Rooms</li>
                     <li>98 rooms (BSD 1)</li>
                     <li>49 rooms (BSD 2)</li>
                   </ul>
@@ -69,6 +71,8 @@ export default function rooms() {
                     <li>Bathroom</li>
                     <li>Water Heater</li>
                     <li>BalconyRoom Size 7x3</li>
+                    <br />
+                    <li>Total Rooms</li>
                     <li>21 rooms (BSD 1)</li>
                     <li> 13 rooms (BSD 2)</li>
                   </ul>
@@ -104,6 +108,8 @@ export default function rooms() {
                     <li>Bathroom</li>
                     <li>Water Heater</li>
                     <li>Balcony</li>
+                    <br />
+                    <li>Total Rooms</li>
                     <li>8 rooms available (BSD 1)</li>
                     <li>11 rooms available (BSD 2)</li>
                   </ul>
