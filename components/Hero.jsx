@@ -93,7 +93,7 @@ function Hero() {
                   className="text-4xl text-center font-bold w-3/4 md:text-6xl"
                   style={{ color: 'white' }}
                 >
-                  Get Free Merchandise Suga BTS and Doorprize ARMY Bomb!
+                  Get Free Merchandise Suga BTS and Doorprize ARMYBOMB!
                 </h1>
               </div>
               <a href="#home" className="btn btn-circle btn-ghost">
