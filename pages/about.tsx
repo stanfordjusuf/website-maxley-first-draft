@@ -38,6 +38,10 @@ export default function about() {
       </div>
       <br />
       <br />
+      <br />
+      <br />
+      <br />
+      <br />
     </>
   );
 }
