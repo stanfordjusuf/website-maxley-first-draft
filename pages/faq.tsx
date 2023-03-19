@@ -71,6 +71,7 @@ export default function faq() {
             {({ open }) => (
               <>
                 <Disclosure.Button className="flex justify-between w-full px-4 py-2 text-sm font-medium text-left text-purple-900 bg-orange-100 rounded-lg">
+                  <span>Apakah Maxley menerima Penyewa selain Mahasiswa?</span>
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     fill="none"
