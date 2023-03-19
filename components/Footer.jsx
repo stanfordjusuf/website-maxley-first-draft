@@ -78,6 +78,7 @@ const Footer = () => (
       </div>
     </div>
     <div className="justify-self-center">
+      <p>Feedback</p>
       <p className="link link-hover">Customer service: 081227762299</p>
     </div>
   </footer>
