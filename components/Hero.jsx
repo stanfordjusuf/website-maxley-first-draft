@@ -13,28 +13,43 @@ function Hero() {
               </a>
 
               <div className="flex flex-col absolute items-center w-full h-full justify-center -z-50">
-                <h1
-                  className="text-4xl text-center md:text-6xl font-bold"
-                  style={{ color: 'white' }}
+                <div
+                  className="hero min-h-screen"
+                  style={{
+                    backgroundImage: `url("https://i.ibb.co/bsQcQsg/IMG-4848.png")`,
+                  }}
                 >
-                  #livingwithmaxley
-                </h1>
-                <h1 className="text-3xl text-center" style={{ color: 'white' }}>
-                  Hotel & Lodging
-                </h1>
-                <div className="flex flex-row mt-4 flex-wrap">
-                  <Link href="/about">
-                    <button
-                      type="button"
-                      className="btn btn-outline"
-                      style={{ color: 'white' }}
-                    >
-                      About Us
-                    </button>
-                  </Link>
-                  <Link href="/contact">
-                    <button type="button" className="btn btn-ghost">Contact Us</button>
-                  </Link>
+                  <div className="hero-overlay bg-opacity-60"></div>
+                  <div className="hero-content text-center text-neutral-content">
+                    <div className="max-w-md">
+                      <h1 className="mb-5 text-5xl font-bold">
+                        #livingwithmaxley
+                      </h1>
+                      <p className="mb-5 text-xl" style={{ color: 'white' }}>
+                        Hotel & Lodging
+                      </p>
+                      <div className="flex flex-row mt-4 flex-wrap justify-center">
+                        <Link href="/about">
+                          <button
+                            type="button"
+                            className="btn btn-outline"
+                            style={{ color: 'white' }}
+                          >
+                            About Us
+                          </button>
+                        </Link>
+                        <Link href="/contact">
+                          <button
+                            type="button"
+                            className="btn btn-ghost"
+                            style={{ color: 'white' }}
+                          >
+                            Contact Us
+                          </button>
+                        </Link>
+                      </div>
+                    </div>
+                  </div>
                 </div>
               </div>
 
