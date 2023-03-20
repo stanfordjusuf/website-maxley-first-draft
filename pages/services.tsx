@@ -46,7 +46,7 @@ export default function services() {
             <div className="card w-3/4 bg-base-100 shadow-xl h-3/4">
               <figure className="h-2/3">
                 <img
-                  src={"https://i.ibb.co/t4qz3SR/Study-Room.jpg"}
+                  src={"https://i.ibb.co/bsQcQsg/IMG-4848.png"}
                   alt="facilities"
                   className=""
                 />
