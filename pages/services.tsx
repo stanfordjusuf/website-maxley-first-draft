@@ -44,6 +44,13 @@ export default function services() {
           </div>
           <div className="flex flex-col items-center">
             <div className="card w-3/4 bg-base-100 shadow-xl h-3/4">
+              <figure className="h-2/3">
+                <img
+                  src={"https://i.ibb.co/t4qz3SR/Study-Room.jpg"}
+                  alt="facilities"
+                  className=""
+                />
+              </figure>
               <div className="card-body">
                 <h2 className="card-title underline">Fasilitas</h2>
                 <p style={{ color: 'white' }}>
