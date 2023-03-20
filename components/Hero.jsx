@@ -82,7 +82,15 @@ function Hero() {
               </a>
             </div>
           </div>
-          <div id="promotion2" className="carousel-item relative w-full">
+                    <div
+            id="promotion2"
+            className="carousel-item relative w-full flex flex-col align-center"
+          >
+            <h1 className="text-4xl text-center font-bold w-full md:text-6xl z-50" style={{color: 'white'}}>
+              <br></br>
+              Get FREE Merchandise SUGA BTS & Doorprize Lightstick BTS for
+              ARMY!!!
+            </h1>
             <video controls className="w-full absolute w-full h-full">
               <source src="https://drive.google.com/uc?id=1cKceFVj0_DCYB2t6HYv8mMc8lO7T4hhm&export=download" />
             </video>
@@ -90,14 +98,8 @@ function Hero() {
               <a href="#promotion1" className="btn btn-circle btn-ghost">
                 ❮
               </a>
-              <div className="flex flex-col absolute w-full h-full -z-50 justify-center items-center ">
-                <h1
-                  className="text-4xl text-center font-bold w-3/4 md:text-6xl"
-                  style={{ color: 'white' }}
-                >
-                  Get Free Merchandise Suga BTS and Doorprize ARMYBOMB!
-                </h1>
-              </div>
+              <div className="flex flex-col absolute w-full h-full -z-50 justify-center items-center "></div>
+
               <a href="#home" className="btn btn-circle btn-ghost">
                 ❯
               </a>
