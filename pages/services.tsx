@@ -113,6 +113,13 @@ export default function services() {
                   hours, dispenser, refrigerator, electricity.
                 </p>
               </div>
+              <br />
+              <br />
+              <br />
+              <br />
+              <br />
+              <br />
+              <br />
             </div>
           </div>
         </div>
