@@ -110,36 +110,10 @@ export default function services() {
                   Tidak hanya kamar tidur, Maxley juga menyediakan berbagai
                   fasilitas untuk Mahasiswa demi memenuhi kenyamanan dan
                   kebutuhan Mahasiswa selama menjalani kehidupan kampus.
+                  Fasilitas yang kita menyediakan: gym, study room, communal
+                  area, free laundry, free cleaning room, wifi, security 24
+                  hours, dispenser, refrigerator, electricity.
                 </p>
-                <div className="card-actions justify-end">
-                  <button
-                    type="button"
-                    tabIndex={0}
-                    className="collapse collapse-plus border border-base-300 bg-base-100 rounded-box w-full"
-                  >
-                    <div
-                      className="collapse-title text-xl font-medium"
-                      style={{ color: 'white' }}
-                    >
-                      Fasilitas yang kita menyediakan
-                    </div>
-                    <div className="collapse-content">
-                      <ul className="text-lg">
-                        <li>Gym</li>
-                        <li>Study Room</li>
-                        <li>Communal Area</li>
-                        <li>Free Laundry</li>
-                        <li>Free Cleaning Room</li>
-                        <li>Wifi</li>
-                        <li>Security 24 Hours</li>
-                        <li>Dispenser</li>
-                        <li>Refrigerator</li>
-                        <li>Electricity</li>
-                      </ul>
-                    </div>
-                  </button>
-                </div>
-                <br />
               </div>
             </div>
           </div>
