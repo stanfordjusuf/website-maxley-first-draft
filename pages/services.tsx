@@ -45,7 +45,7 @@ export default function services() {
           <div className="flex flex-col items-center">
             <div className="card w-3/4 bg-base-100 shadow-xl h-3/4">
               <figure className="h-2/3">
-                  <div className="w-128 carousel rounded-box">
+                  <div className="w-128 carousel rounded-box z-10">
                     <div className="carousel-item w-full">
                       <img
                         src="https://i.ibb.co/HC58JyX/Screenshot-2023-03-20-at-19-57-30.png"
