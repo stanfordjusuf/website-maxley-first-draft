@@ -63,6 +63,7 @@ function Hero() {
             className="carousel-item relative w-full flex flex-col"
           >
             <h1 className="text-4xl text-center font-bold md:text-6xl z-50" style={{color: 'white'}}>
+              <br></br>
               Group Package Promo!
               <br></br>
               Invite your friends to living at Maxley!
