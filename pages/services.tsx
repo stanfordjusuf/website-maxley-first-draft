@@ -86,6 +86,67 @@ export default function services() {
                     </div>
                   </button>
                 </div>
+                <br />
+                <center>
+                  <div className="w-64 carousel rounded-box">
+                    <div className="carousel-item w-full">
+                      <img
+                        src="https://i.ibb.co/HC58JyX/Screenshot-2023-03-20-at-19-57-30.png"
+                        className="w-full"
+                        alt="Tailwind CSS Carousel component"
+                      />
+                    </div>
+                    <div className="carousel-item w-full">
+                      <img
+                        src="https://i.ibb.co/cTDFFRG/Screenshot-2023-03-20-at-19-59-28.png"
+                        className="w-full"
+                        alt="Tailwind CSS Carousel component"
+                      />
+                    </div>
+                    <div className="carousel-item w-full">
+                      <img
+                        src="https://i.ibb.co/kBW35Nq/Screenshot-2023-03-20-at-20-00-28.png"
+                        className="w-full"
+                        alt="Tailwind CSS Carousel component"
+                      />
+                    </div>
+                    <div className="carousel-item w-full">
+                      <img
+                        src="https://i.ibb.co/27wFW3t/Screenshot-2023-03-20-at-20-01-23.png"
+                        className="w-full"
+                        alt="Tailwind CSS Carousel component"
+                      />
+                    </div>
+                    <div className="carousel-item w-full">
+                      <img
+                        src="https://i.ibb.co/6BCCzKQ/Screenshot-2023-03-20-at-20-03-17.png"
+                        className="w-full"
+                        alt="Tailwind CSS Carousel component"
+                      />
+                    </div>
+                    <div className="carousel-item w-full">
+                      <img
+                        src="https://i.ibb.co/sFQdjjD/Screenshot-2023-03-20-at-20-06-09.png"
+                        className="w-full"
+                        alt="Tailwind CSS Carousel component"
+                      />
+                    </div>
+                    <div className="carousel-item w-full">
+                      <img
+                        src="https://i.ibb.co/jTGdVT5/Screenshot-2023-03-20-at-20-07-03.png"
+                        className="w-full"
+                        alt="Tailwind CSS Carousel component"
+                      />
+                    </div>
+                    <div className="carousel-item w-full">
+                      <img
+                        src="https://i.ibb.co/pJV6f8T/Screenshot-2023-03-20-at-20-07-34.png"
+                        className="w-full"
+                        alt="Tailwind CSS Carousel component"
+                      />
+                    </div>
+                  </div>
+                </center>
               </div>
             </div>
           </div>
