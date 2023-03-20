@@ -45,50 +45,7 @@ export default function services() {
           <div className="flex flex-col items-center">
             <div className="card w-3/4 bg-base-100 shadow-xl h-3/4">
               <figure className="h-2/3">
-                <img
-                  src={"https://i.ibb.co/bsQcQsg/IMG-4848.png"}
-                  alt="facilities"
-                  className=""
-                />
-              </figure>
-              <div className="card-body">
-                <h2 className="card-title underline">Fasilitas</h2>
-                <p style={{ color: 'white' }}>
-                  Tidak hanya kamar tidur, Maxley juga menyediakan berbagai
-                  fasilitas untuk Mahasiswa demi memenuhi kenyamanan dan
-                  kebutuhan Mahasiswa selama menjalani kehidupan kampus.
-                </p>
-                <div className="card-actions justify-end">
-                  <button
-                    type="button"
-                    tabIndex={0}
-                    className="collapse collapse-plus border border-base-300 bg-base-100 rounded-box w-full"
-                  >
-                    <div
-                      className="collapse-title text-xl font-medium"
-                      style={{ color: 'white' }}
-                    >
-                      Fasilitas yang kita menyediakan
-                    </div>
-                    <div className="collapse-content">
-                      <ul className="text-lg">
-                        <li>Gym</li>
-                        <li>Study Room</li>
-                        <li>Communal Area</li>
-                        <li>Free Laundry</li>
-                        <li>Free Cleaning Room</li>
-                        <li>Wifi</li>
-                        <li>Security 24 Hours</li>
-                        <li>Dispenser</li>
-                        <li>Refrigerator</li>
-                        <li>Electricity</li>
-                      </ul>
-                    </div>
-                  </button>
-                </div>
-                <br />
-                <center>
-                  <div className="w-64 carousel rounded-box">
+                  <div className="w-128 carousel rounded-box">
                     <div className="carousel-item w-full">
                       <img
                         src="https://i.ibb.co/HC58JyX/Screenshot-2023-03-20-at-19-57-30.png"
@@ -146,7 +103,43 @@ export default function services() {
                       />
                     </div>
                   </div>
-                </center>
+              </figure>
+              <div className="card-body">
+                <h2 className="card-title underline">Fasilitas</h2>
+                <p style={{ color: 'white' }}>
+                  Tidak hanya kamar tidur, Maxley juga menyediakan berbagai
+                  fasilitas untuk Mahasiswa demi memenuhi kenyamanan dan
+                  kebutuhan Mahasiswa selama menjalani kehidupan kampus.
+                </p>
+                <div className="card-actions justify-end">
+                  <button
+                    type="button"
+                    tabIndex={0}
+                    className="collapse collapse-plus border border-base-300 bg-base-100 rounded-box w-full"
+                  >
+                    <div
+                      className="collapse-title text-xl font-medium"
+                      style={{ color: 'white' }}
+                    >
+                      Fasilitas yang kita menyediakan
+                    </div>
+                    <div className="collapse-content">
+                      <ul className="text-lg">
+                        <li>Gym</li>
+                        <li>Study Room</li>
+                        <li>Communal Area</li>
+                        <li>Free Laundry</li>
+                        <li>Free Cleaning Room</li>
+                        <li>Wifi</li>
+                        <li>Security 24 Hours</li>
+                        <li>Dispenser</li>
+                        <li>Refrigerator</li>
+                        <li>Electricity</li>
+                      </ul>
+                    </div>
+                  </button>
+                </div>
+                <br />
               </div>
             </div>
           </div>
