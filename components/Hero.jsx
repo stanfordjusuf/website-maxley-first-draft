@@ -53,29 +53,28 @@ function Hero() {
                 </div>
               </div>
 
-              <div
-                id="promotion1"
-                className="carousel-item relative w-full flex flex-col"
-              >
-                <h1 className="text-4xl text-center font-bold md:text-6xl z-50" style={{color: 'white'}}>
-                  Group Package Promo!
-                  <br></br>
-                  Invite your friends to living at Maxley!
-                </h1>
-                <video controls className="w-full absolute w-full h-full">
-                  <source src="https://drive.google.com/uc?id=1iK8BnwXpUoFaU3HxasKab6YFRZpo0PP9&export=download" />
-                </video>
+              <a href="#promotion1" className="btn btn-circle btn-ghost">
+                ❯
+              </a>
+            </div>
+          </div>
+          <div
+            id="promotion1"
+            className="carousel-item relative w-full flex flex-col"
+          >
+            <h1 className="text-4xl text-center font-bold md:text-6xl z-50" style={{color: 'white'}}>
+              Group Package Promo!
+              <br></br>
+              Invite your friends to living at Maxley!
+            </h1>
+            <video controls className="w-full absolute w-full h-full">
+              <source src="https://drive.google.com/uc?id=1iK8BnwXpUoFaU3HxasKab6YFRZpo0PP9&export=download" />
+            </video>
 
-                <div className="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
-                  <a href="#home" className="btn btn-circle btn-ghost">
-                    ❮
-                  </a>
-
-                  <a href="#promotion2" className="btn btn-circle btn-ghost">
-                    ❯
-                  </a>
-                </div>
-              </div>
+            <div className="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
+              <a href="#home" className="btn btn-circle btn-ghost">
+                ❮
+              </a>
 
               <a href="#promotion2" className="btn btn-circle btn-ghost">
                 ❯
