@@ -4,7 +4,7 @@ export default function contact() {
   return (
     <div
       className="hero min-h-screen"
-      style={{ color: 'white', backgroundColor: '#f86c04' }}
+      style={{ color: 'white', backgroundColor: 'white' }}
     >
       <div className="hero-content flex-col lg:flex-row-reverse">
         <img
@@ -12,7 +12,7 @@ export default function contact() {
           className="max-w-sm rounded-lg shadow-2xl"
         />
         <div>
-          <h1 className="text-5xl font-bold" style={{ color: 'white' }}>
+          <h1 className="text-5xl font-bold" style={{ color: '#f86c04' }}>
             Contact Us!
           </h1>
           <br />
