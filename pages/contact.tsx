@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function contact() {
   return (
-    <>
+    <style={{ backgroundColor: '#f86c04' }}>
       <div
         className="hero min-h-screen"
         style={{ color: 'white', backgroundColor: '#f86c04' }}
