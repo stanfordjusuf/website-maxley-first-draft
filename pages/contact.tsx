@@ -3,10 +3,9 @@ import React from 'react';
 export default function contact() {
   return (
     <div
-      className="hero min-h-screen"
+      className="hero min-h-screen mt-6"
       style={{ color: 'white', backgroundColor: '#f86c04' }}
     >
-      <br />
       <div className="hero-content flex-col lg:flex-row-reverse">
         <img
           src="https://i.ibb.co/tH6zr8h/Screenshot-2023-03-19-at-14-51-17.png"
