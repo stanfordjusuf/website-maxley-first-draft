@@ -116,7 +116,7 @@ export default function contact() {
               />
             </a>
           </div>
-        <center/>
+        </center>
       </div>
     </div>
   );
