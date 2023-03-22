@@ -11,23 +11,25 @@ export default function contact() {
           src="https://i.ibb.co/tH6zr8h/Screenshot-2023-03-19-at-14-51-17.png"
           className="max-w-sm rounded-lg shadow-2xl"
         />
-        <div>
-          <h1 className="text-5xl font-bold" style={{ color: '#f86c04' }}>
-            Contact Us!
-          </h1>
-          <br />
-          <div className="grid grid-cols-3 content-center">
-            <img
-              src="https://i.ibb.co/7WgCFf1/svg.png"
-              alt=""
-              style={{ width: '20px', height: 'auto' }}
-            />
-            <div className="absolute left-55 pl-6">
-              <p className="text-xl">
-                Operational Hours: 09.00 - 17.00 WIB
-              </p>
+        <center>
+          <div>
+            <h1 className="text-5xl font-bold" style={{ color: '#f86c04' }}>
+              Contact Us!
+            </h1>
+            <br />
+            <div className="grid grid-cols-3 content-center">
+              <img
+                src="https://i.ibb.co/7WgCFf1/svg.png"
+                alt=""
+                style={{ width: '20px', height: 'auto' }}
+              />
+              <div className="absolute left-55 pl-6">
+                <p className="text-xl">
+                  Operational Hours: 09.00 - 17.00 WIB
+                </p>
+              </div>
             </div>
-          </div>
+          </center>
           <div className="grid grid-cols-3 content-center">
             <img
               src="https://i.ibb.co/ZgDzqQC/3.png"
