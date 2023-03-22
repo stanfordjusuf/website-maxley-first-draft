@@ -3,7 +3,7 @@ import React from 'react';
 export default function contact() {
   return (
     <div
-      className="hero min-h-screen mt-6"
+      className="hero min-h-screen"
       style={{ color: 'white', backgroundColor: '#f86c04' }}
     >
       <div className="hero-content flex-col lg:flex-row-reverse">
