@@ -9,9 +9,9 @@ export default function contact() {
       <div className="hero-content flex-col lg:flex-row-reverse">
         <img
           src="https://i.ibb.co/tH6zr8h/Screenshot-2023-03-19-at-14-51-17.png"
-          className="max-w-sm rounded-lg shadow-2xl"
+          className="sm:max-w-sm rounded-lg shadow-2xl"
         />
-        <div className="lg:absolute lg:pl-50">
+        <div>
           <h1 className="text-5xl font-bold" style={{ color: '#f86c04' }}>
             Contact Us!
           </h1>
