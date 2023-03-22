@@ -12,10 +12,71 @@ export default function rooms() {
           <div>
             <div className="card lg:card-side bg-base-100 shadow-xl">
               <figure className="lg:w-1/3 md:w-full">
-                <img
-                  src="https://i.ibb.co/C54L36G/Single-Bed.jpg"
-                  alt="single bed"
-                />
+                <div className="w-128 carousel rounded-box">
+                   <div className="carousel-item w-full">
+                    <img
+                      src="https://i.ibb.co/C54L36G/Single-Bed.jpg"
+                      className="w-full"
+                      alt="Tailwind CSS Carousel component"
+                    />
+                  </div>
+                  <div className="carousel-item w-full">
+                    <img
+                      src="https://i.ibb.co/HC58JyX/Screenshot-2023-03-20-at-19-57-30.png"
+                      className="w-full"
+                      alt="Tailwind CSS Carousel component"
+                    />
+                  </div>
+                  <div className="carousel-item w-full">
+                    <img
+                      src="https://i.ibb.co/cTDFFRG/Screenshot-2023-03-20-at-19-59-28.png"
+                      className="w-full"
+                      alt="Tailwind CSS Carousel component"
+                    />
+                  </div>
+                  <div className="carousel-item w-full">
+                    <img
+                      src="https://i.ibb.co/kBW35Nq/Screenshot-2023-03-20-at-20-00-28.png"
+                      className="w-full"
+                      alt="Tailwind CSS Carousel component"
+                    />
+                  </div>
+                  <div className="carousel-item w-full">
+                    <img
+                      src="https://i.ibb.co/27wFW3t/Screenshot-2023-03-20-at-20-01-23.png"
+                      className="w-full"
+                      alt="Tailwind CSS Carousel component"
+                    />
+                  </div>
+                  <div className="carousel-item w-full">
+                    <img
+                      src="https://i.ibb.co/6BCCzKQ/Screenshot-2023-03-20-at-20-03-17.png"
+                      className="w-full"
+                      alt="Tailwind CSS Carousel component"
+                    />
+                  </div>
+                  <div className="carousel-item w-full">
+                    <img
+                      src="https://i.ibb.co/sFQdjjD/Screenshot-2023-03-20-at-20-06-09.png"
+                      className="w-full"
+                      alt="Tailwind CSS Carousel component"
+                    />
+                  </div>
+                  <div className="carousel-item w-full">
+                    <img
+                      src="https://i.ibb.co/jTGdVT5/Screenshot-2023-03-20-at-20-07-03.png"
+                      className="w-full"
+                      alt="Tailwind CSS Carousel component"
+                    />
+                  </div>
+                  <div className="carousel-item w-full">
+                    <img
+                      src="https://i.ibb.co/pJV6f8T/Screenshot-2023-03-20-at-20-07-34.png"
+                      className="w-full"
+                      alt="Tailwind CSS Carousel component"
+                    />
+                  </div>
+                </div>
               </figure>
               <div className="card-body">
                 <h2 className="card-title text-2xl underline decoration-[#f86c04]">
