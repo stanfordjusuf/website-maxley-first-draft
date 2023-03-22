@@ -22,15 +22,17 @@ export default function contact() {
               alt=""
               style={{ width: '20px', height: 'auto' }}
             />
-            <p className="text-xl relative left-30">
-              Email:{" "}
-              <a
-                href="mailto:maxleysuites@gmail.com"
-                className="hover:underline"
-              >
-                maxleysuites@gmail.com
-              </a>
-            </p>
+            <div className="relative right-30">
+              <p className="text-xl">
+                Email:{" "}
+                <a
+                  href="mailto:maxleysuites@gmail.com"
+                  className="hover:underline"
+                >
+                  maxleysuites@gmail.com
+                </a>
+              </p>
+            </div>
           </div>
           <p className="text-xl">
             BSD:{" "}
