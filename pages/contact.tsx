@@ -6,6 +6,7 @@ export default function contact() {
       className="hero min-h-screen"
       style={{ color: 'white', backgroundColor: '#f86c04' }}
     >
+      <br />
       <div className="hero-content flex-col lg:flex-row-reverse">
         <img
           src="https://i.ibb.co/tH6zr8h/Screenshot-2023-03-19-at-14-51-17.png"
