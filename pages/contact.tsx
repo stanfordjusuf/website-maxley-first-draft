@@ -4,7 +4,7 @@ export default function contact() {
   return (
     <div className="h-full" style={{ backgroundColor: '#f86c04' }}>
       <div
-        className="hero min-h-screen"
+        className="hero"
         style={{ color: 'white', backgroundColor: '#f86c04' }}
       >
         <div className="hero-content flex-col lg:flex-row-reverse">
