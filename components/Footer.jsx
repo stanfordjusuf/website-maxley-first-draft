@@ -10,7 +10,7 @@ const Footer = () => (
       <Link href="/">
         {/* <span className="logo cursor-pointer font-bold text-4xl text-orange">Prodat ⭐️</span> */}
         <img
-          className="btn btn-warning hover:cursor-pointer"
+          className="btn hover:cursor-pointer"
           width="200px"
           height="auto"
           src="https://i.ibb.co/3Rvrrkn/Screenshot-2023-03-11-at-13-14-22-removebg-preview-1.png"
