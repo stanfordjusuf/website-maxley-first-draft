@@ -16,7 +16,7 @@ export default function contact() {
             Contact Us!
           </h1>
           <br />
-          <div className="grid grid-cols-3">
+          <div className="grid grid-cols-3 content-center">
             <img
               src="https://i.ibb.co/ChdTZp1/5.png"
               alt=""
