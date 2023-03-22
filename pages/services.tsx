@@ -108,9 +108,9 @@ export default function services() {
                   Tidak hanya kamar tidur, Maxley juga menyediakan berbagai
                   fasilitas untuk Mahasiswa demi memenuhi kenyamanan dan
                   kebutuhan Mahasiswa selama menjalani kehidupan kampus.
-                  Fasilitas yang kita menyediakan: gym, study room, communal
-                  area, free laundry, free cleaning room, wifi, security 24
-                  hours, dispenser, refrigerator, electricity.
+                  Fasilitas yang kita menyediakan: gym, billiard, study room,
+                  communal area, free laundry, free cleaning room, wifi, security 
+                  24 hours, dispenser, refrigerator, electricity.
                 </p>
               </div>
               <br />
