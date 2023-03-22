@@ -2,8 +2,7 @@ import React from 'react';
 
 export default function contact() {
   return (
-    <>
-      <br />
+    <div style={{ backgroundColor: '#f86c04' }}>
       <div
         className="hero min-h-screen"
         style={{ color: 'white', backgroundColor: '#f86c04' }}
@@ -67,6 +66,6 @@ export default function contact() {
           </div>
         </div>
       </div>
-    </>
+    </div>
   );
 }
