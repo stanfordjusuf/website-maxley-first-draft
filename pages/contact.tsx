@@ -22,7 +22,7 @@ export default function contact() {
               alt=""
               style={{ width: '20px', height: 'auto' }}
             />
-            <div className="absolute right-25">
+            <div className="absolute right-22">
               <p className="text-xl">
                 Email:{" "}
                 <a
