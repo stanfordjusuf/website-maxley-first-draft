@@ -8,6 +8,7 @@ export default function about() {
           <img
             src="https://i.ibb.co/bsQcQsg/IMG-4848.png"
             className="h-full"
+            style = {{ borderRadius: '10%' }}
           />
         </div>
         <div className="flex-1 p-4">
