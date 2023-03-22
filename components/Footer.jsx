@@ -16,6 +16,7 @@ const Footer = () => (
           src="https://i.ibb.co/3Rvrrkn/Screenshot-2023-03-11-at-13-14-22-removebg-preview-1.png"
           alt="logo-1"
           border="0"
+          style={{ backgroundColor: '#fcac3c' }}
         />
       </Link>
       <Link href="/">
