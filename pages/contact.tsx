@@ -16,6 +16,11 @@ export default function contact() {
             Contact Us!
           </h1>
           <br />
+          <img
+            src="https://i.ibb.co/ChdTZp1/5.png"
+            alt=""
+            style={{ width: '20px', height: 'auto' }}
+          />
           <p className="text-xl">
             Email:{" "}
             <a
