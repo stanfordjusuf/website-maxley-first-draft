@@ -22,7 +22,7 @@ export default function contact() {
               alt=""
               style={{ width: '20px', height: 'auto' }}
             />
-            <p className="text-xl">
+            <p className="text-xl relative left-30">
               Email:{" "}
               <a
                 href="mailto:maxleysuites@gmail.com"
