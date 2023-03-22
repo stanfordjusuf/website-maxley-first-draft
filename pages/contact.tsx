@@ -16,13 +16,12 @@ export default function contact() {
             Contact Us!
           </h1>
           <br />
-          <div style={{ position: 'relative', top: '18px', left: '10px' }}>
+          <div>
             <img
               src="https://i.ibb.co/ChdTZp1/5.png"
               alt=""
-              style={{ width: '20px', height: 'auto', float: 'left'}}
             />
-            <p className="text-xl" style={{ position: 'relative', top: '18px', left: '10px' }}>
+            <p className="text-xl">
               Email:{" "}
               <a
                 href="mailto:maxleysuites@gmail.com"
