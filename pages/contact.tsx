@@ -16,7 +16,7 @@ export default function contact() {
             Contact Us!
           </h1>
           <br />
-          <div>
+          <div className="grid grid-cols-3 gap-4">
             <img
               src="https://i.ibb.co/ChdTZp1/5.png"
               alt=""
