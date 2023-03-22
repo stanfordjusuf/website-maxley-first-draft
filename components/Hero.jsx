@@ -167,7 +167,7 @@ function Hero() {
               <br />
               <div className="grid grid-cols-3 content-center">
                 <img
-                  src="https://i.ibb.co/7WgCFf1/svg.png"
+                  src="https://i.ibb.co/tCkzTWw/svg-2.png"
                   alt=""
                   style={{ width: '20px', height: 'auto' }}
                 />
