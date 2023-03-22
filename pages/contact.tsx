@@ -22,7 +22,7 @@ export default function contact() {
               alt=""
               style={{ width: '20px', height: 'auto' }}
             />
-            <div className="absolute left-55 pl-5">
+            <div className="absolute left-55 pl-6">
               <p className="text-xl">
                 Email:{" "}
                 <a
