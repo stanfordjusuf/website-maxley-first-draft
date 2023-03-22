@@ -11,7 +11,7 @@ export default function contact() {
           src="https://i.ibb.co/tH6zr8h/Screenshot-2023-03-19-at-14-51-17.png"
           className="max-w-sm rounded-lg shadow-2xl"
         />
-        <div classname="place-content-center">
+        <div className="place-content-center">
           <h1 className="text-5xl font-bold" style={{ color: '#f86c04' }}>
             Contact Us!
           </h1>
