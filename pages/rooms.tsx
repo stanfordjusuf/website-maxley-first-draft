@@ -29,6 +29,7 @@ export default function rooms() {
                     <li>Room size 6x3</li>
                     <li>1 Pillow</li>
                     <li>Bed (160 x 200 cm)</li>
+                    <li>Table + Chair</li>
                     <li>Wardrobe</li>
                     <li>Rubbish Bin</li>
                     <li>Air Conditioner</li>
@@ -64,13 +65,13 @@ export default function rooms() {
                     <li>Room Size 7x3</li>
                     <li>Bed (180 x 200 cm)</li>
                     <li>1 Pillow</li>
-                    <li>Bed (160 x 200 cm)</li>
+                    <li>Table + Chair</li>
                     <li>Wardrobe</li>
                     <li>Rubbish Bin</li>
                     <li>Air Conditioner</li>
                     <li>Bathroom</li>
                     <li>Water Heater</li>
-                    <li>BalconyRoom Size 7x3</li>
+                    <li>Balcony</li>
                     <br />
                     <li>Total Rooms:</li>
                     <li>21 rooms (BSD 1)</li>
@@ -100,7 +101,6 @@ export default function rooms() {
                     <li>Room Size 6x3</li>
                     <li>2 Bed (120 x 200 cm)</li>
                     <li>2 Pillow</li>
-                    <li>Bed (160 x 200 cm)</li>
                     <li>Table + Chair</li>
                     <li>Wardrobe</li>
                     <li>Rubbish Bin</li>
