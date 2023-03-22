@@ -28,6 +28,7 @@ export default function contact() {
               </p>
             </div>
           </div>
+          <br />
           <div className="grid grid-cols-3 content-center">
             <img
               src="https://i.ibb.co/ZgDzqQC/3.png"
@@ -46,6 +47,7 @@ export default function contact() {
               </p>
             </div>
           </div>
+          <br />
           <div className="grid grid-cols-3 content-center">
             <img
               src="https://i.ibb.co/d2vBPhL/1.png"
@@ -63,6 +65,7 @@ export default function contact() {
               </p>
             </div>
           </div>
+          <br />
           <div className="grid grid-cols-3 content-center">
             <img
               src="https://i.ibb.co/LvNw1Dv/2.png"
@@ -80,6 +83,7 @@ export default function contact() {
               </p>
             </div>
           </div>
+          <br />
           <div className="grid grid-cols-3 content-center">
             <img
               src="https://i.ibb.co/ChdTZp1/5.png"
@@ -97,6 +101,7 @@ export default function contact() {
               </p>
             </div>
           </div>
+          <br />
           <div className="grid grid-cols-3 content-center">
             <p className="text-xl">
               <a
