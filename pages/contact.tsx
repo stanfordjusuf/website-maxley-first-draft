@@ -16,13 +16,13 @@ export default function contact() {
             Contact Us!
           </h1>
           <br />
-          <div className="grid grid-cols-3 gap-1 content-center">
+          <div className="grid grid-cols-3 content-center">
             <img
               src="https://i.ibb.co/ChdTZp1/5.png"
               alt=""
               style={{ width: '20px', height: 'auto' }}
             />
-            <div className="absolute right-30">
+            <div className="absolute right-30 left-5">
               <p className="text-xl">
                 Email:{" "}
                 <a
