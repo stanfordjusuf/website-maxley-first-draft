@@ -173,28 +173,19 @@ function Hero() {
                 />
                 <div className="absolute left-55 pl-6">
                   <p className="text-xl">
-                    Operational Hours: 09.00 - 17.00 WIB
+                    09.00 - 17.00 WIB
                   </p>
                 </div>
               </div>
               <br />
               <div className="grid grid-cols-3 content-center">
-                <img
-                  src="https://i.ibb.co/ZgDzqQC/3.png"
-                  alt=""
-                  style={{ width: '20px', height: 'auto' }}
-                />
-                <div className="absolute left-55 pl-6">
-                  <p className="text-xl">
-                    BSD:{" "}
-                    <a
-                      href="https://linktr.ee/maxleysuites"
-                      className="hover:underline"
-                    >
-                      Whatsapp
-                    </a>
-                  </p>
-                </div>
+                <a href="https://linktr.ee/maxleysuites">
+                  <img
+                    src="https://i.ibb.co/ZgDzqQC/3.png"
+                    alt=""
+                    style={{ width: '20px', height: 'auto' }}
+                  />
+                </a>
               </div>
               <br />
               <div className="grid grid-cols-3 content-center">
@@ -209,7 +200,7 @@ function Hero() {
                       href="https://www.instagram.com/maxleysuites/"
                       className="hover:underline"
                     >
-                      IG: @maxleysuites
+                      @maxleysuites
                     </a>
                   </p>
                 </div>
@@ -227,7 +218,7 @@ function Hero() {
                       href="https://www.tiktok.com/@maxleysuites?_t=8aRWNgJ7DDm&_r=1"
                       className="hover:underline"
                     >
-                      TikTok: @maxleysuites
+                      @maxleysuites
                     </a>
                   </p>
                 </div>
@@ -245,7 +236,7 @@ function Hero() {
                       href="mailto:maxleysuites@gmail.com"
                       className="hover:underline"
                     >
-                      Email: maxleysuites@gmail.com
+                      maxleysuites@gmail.com
                     </a>
                   </p>
                 </div>
