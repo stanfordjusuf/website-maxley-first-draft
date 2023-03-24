@@ -167,7 +167,7 @@ export default function rooms() {
                  <div className="w-128 carousel rounded-box">
                    <div className="carousel-item w-full">
                     <img
-                      src="https://i.ibb.co/yYjYqM4/DSC-5818-HDR.jpg"
+                      src="https://i.ibb.co/J3fvf8k/DSC-5809-HDR.jpg"
                       className="w-full"
                       alt="Tailwind CSS Carousel component"
                     />
