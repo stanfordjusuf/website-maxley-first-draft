@@ -93,6 +93,7 @@ export default function services() {
                 </div>
               </div>
             </div>
+            <br />
           </div>
           <div className="flex flex-col items-center">
             <div className="card w-3/4 bg-base-100 shadow-xl h-3/4">
