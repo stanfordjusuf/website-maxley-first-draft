@@ -120,7 +120,7 @@ function Hero() {
               </Link>
               <br />
             </div>
-            <div className='relative text-center flex-1 flex flex-col justify-center items-center p-6  bg-cover bg-[url("https://i.ibb.co/xmpsYpR/Billiard.jpg")]'>
+            <div className='relative text-center flex-1 flex flex-col justify-center items-center p-6  bg-cover bg-[url("https://i.ibb.co/bsQcQsg/IMG-4848.png")]'>
               <div className="min-w-full h-full bg-[#f86c04] opacity-30 absolute" />
               <Link href="/about">
                 <a
