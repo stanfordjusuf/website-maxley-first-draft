@@ -142,9 +142,9 @@ export default function rooms() {
                     Description:
                   </p>
                   <ul className="text-lg">
-                    <li>Room Size 7x3</li>
-                    <li>Bed (180 x 200 cm)</li>
-                    <li>1 Pillow</li>
+                    <li>Room Size 6x3</li>
+                    <li>2 Bed (120 x 200 cm)</li>
+                    <li>2 Pillow</li>
                     <li>Table + Chair</li>
                     <li>Wardrobe</li>
                     <li>Rubbish Bin</li>
@@ -154,8 +154,8 @@ export default function rooms() {
                     <li>Balcony</li>
                     <br />
                     <li>Total Rooms:</li>
-                    <li>21 rooms (BSD 1)</li>
-                    <li> 13 rooms (BSD 2)</li>
+                    <li>8 rooms available (BSD 1)</li>
+                    <li>11 rooms available (BSD 2)</li>
                   </ul>
                 </div>
               </div>
@@ -218,9 +218,9 @@ export default function rooms() {
                     Description:
                   </p>
                   <ul className="text-lg">
-                    <li>Room Size 6x3</li>
-                    <li>2 Bed (120 x 200 cm)</li>
-                    <li>2 Pillow</li>
+                    <li>Room Size 7x3</li>
+                    <li>Bed (180 x 200 cm)</li>
+                    <li>1 Pillow</li>
                     <li>Table + Chair</li>
                     <li>Wardrobe</li>
                     <li>Rubbish Bin</li>
@@ -230,8 +230,8 @@ export default function rooms() {
                     <li>Balcony</li>
                     <br />
                     <li>Total Rooms:</li>
-                    <li>8 rooms available (BSD 1)</li>
-                    <li>11 rooms available (BSD 2)</li>
+                    <li>21 rooms (BSD 1)</li>
+                    <li> 13 rooms (BSD 2)</li>
                   </ul>
                 </div>
               </div>
