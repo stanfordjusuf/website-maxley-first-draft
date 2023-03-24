@@ -24,6 +24,7 @@ const Footer = () => (
           Home
         </a>
       </Link>
+      <a>Cantumin Copyright</a>
     </div>
     <div className="justify-self-center">
       <Link href="/contact">
