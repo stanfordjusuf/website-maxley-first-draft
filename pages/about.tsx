@@ -22,7 +22,12 @@ export default function about() {
             sebagian besar Mahasiswa Universitas Prasetya Mulya sebagai tempat
             tinggal mereka selama menjalani kegiatan kampus, kini sampai detik ini
             kami bangga melayani dan akan terus siap menjadi Student Domitory yang
-            dapat dipercayakan dan diandalkan oleh Mahasiswa. Selain Student
+            dapat dipercayakan dan diandalkan oleh Mahasiswa. Maxley ingin mendorong 
+            produktivitas mahasiswa dengan memberikan hunian yang nyaman dengan 
+            services yang lengkap. Dimana kita tau, bahwa ide-ide kreatif 
+            bermunculan jika beraktivitas di lingkungan yang nyaman tentunya. 
+            Bagi Maxley produktivitas Mahasiswa sangat penting karena dari sana akan 
+            memutar roda perekonomian negara dengan lebih cepat. Selain Student
             Domitory kami juga menerima tamu sewa seperti Karyawan/ Staff dan
             Daily Rent.
           </p>
