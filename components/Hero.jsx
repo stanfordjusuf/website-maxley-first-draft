@@ -186,6 +186,16 @@ function Hero() {
                     style={{ width: '20px', height: 'auto' }}
                   />
                 </a>
+                <div className="absolute left-55 pl-6">
+                  <p className="text-xl">
+                    <a
+                      href="https://www.instagram.com/maxleysuites/"
+                      className="hover:underline"
+                    >
+                      +6288225924227 (BSD), +6285852293500 (Lippo)
+                    </a>
+                  </p>
+                </div>
               </div>
               <br />
               <div className="grid grid-cols-3 content-center">
