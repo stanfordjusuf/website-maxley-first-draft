@@ -129,6 +129,7 @@ export default function services() {
                   communal area, free laundry, free cleaning room, wifi, security 
                   24 hours, dispenser, refrigerator, electricity.
                 </p>
+                <br />
               </div>
               <br />
               <br />
