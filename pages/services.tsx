@@ -13,13 +13,65 @@ export default function services() {
         <div className="grid lg:grid-cols-2 w-screen md:grid-cols-1">
           <div className="flex flex-col items-center">
             <div className="card w-3/4 bg-base-100 shadow-xl h-3/4">
-              <figure className="h-2/3">
-                <img
-                  src="https://i.ibb.co/RjqLvsq/DSC-5809-HDR.jpg"
-                  alt="rooms"
-                />
-              </figure>
               <div className="card-body">
+                <div className="w-128 carousel rounded-box">
+                  <div className="carousel-item w-full">
+                    <img
+                      src="https://i.ibb.co/HC58JyX/Screenshot-2023-03-20-at-19-57-30.png"
+                      className="w-full"
+                      alt="Tailwind CSS Carousel component"
+                    />
+                  </div>
+                  <div className="carousel-item w-full">
+                    <img
+                      src="https://i.ibb.co/cTDFFRG/Screenshot-2023-03-20-at-19-59-28.png"
+                      className="w-full"
+                      alt="Tailwind CSS Carousel component"
+                    />
+                  </div>
+                  <div className="carousel-item w-full">
+                    <img
+                      src="https://i.ibb.co/kBW35Nq/Screenshot-2023-03-20-at-20-00-28.png"
+                      className="w-full"
+                      alt="Tailwind CSS Carousel component"
+                    />
+                  </div>
+                  <div className="carousel-item w-full">
+                    <img
+                      src="https://i.ibb.co/27wFW3t/Screenshot-2023-03-20-at-20-01-23.png"
+                      className="w-full"
+                      alt="Tailwind CSS Carousel component"
+                    />
+                  </div>
+                  <div className="carousel-item w-full">
+                    <img
+                      src="https://i.ibb.co/6BCCzKQ/Screenshot-2023-03-20-at-20-03-17.png"
+                      className="w-full"
+                      alt="Tailwind CSS Carousel component"
+                    />
+                  </div>
+                  <div className="carousel-item w-full">
+                    <img
+                      src="https://i.ibb.co/sFQdjjD/Screenshot-2023-03-20-at-20-06-09.png"
+                      className="w-full"
+                      alt="Tailwind CSS Carousel component"
+                    />
+                  </div>
+                  <div className="carousel-item w-full">
+                    <img
+                      src="https://i.ibb.co/jTGdVT5/Screenshot-2023-03-20-at-20-07-03.png"
+                      className="w-full"
+                      alt="Tailwind CSS Carousel component"
+                    />
+                  </div>
+                  <div className="carousel-item w-full">
+                    <img
+                      src="https://i.ibb.co/pJV6f8T/Screenshot-2023-03-20-at-20-07-34.png"
+                      className="w-full"
+                      alt="Tailwind CSS Carousel component"
+                    />
+                  </div>
+                </div>
                 <h2 className="card-title underline">Rooms</h2>
                 <p style={{ color: 'white' }}>
                   Maxley menyediakan 200 kamar dengan berbagai tipe seperti
