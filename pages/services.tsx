@@ -91,12 +91,12 @@ export default function services() {
                     </button>
                   </Link>
                 </div>
-              <br />
-              <br />
-              <br />
               </div>
             </div>
           </div>
+          <br />
+          <br />
+          <br />
           <div className="flex flex-col items-center">
             <div className="card w-3/4 bg-base-100 shadow-xl h-3/4">
               <div className="card-body">
