@@ -108,7 +108,7 @@ function Hero() {
         </div>
         <div>
           <div className="section about-section grid md:grid-cols-1 md:h-screen lg:grid-cols-2 w-full">
-            <div className='relative text-center justify-center items-center flex flex-col flex-1 bg-cover bg-[url("https://i.ibb.co/yYZ6rj5/Gym.jpg")] '>
+            <div className='relative text-center justify-center items-center flex flex-col flex-1 bg-cover bg-[url("https://i.ibb.co/jkbn9b1/Screenshot-2023-03-24-at-15-28-46.png")] '>
               <div className="min-w-full h-full bg-[#f86c04] opacity-30 absolute" />
               <Link href="/services">
                 <a
