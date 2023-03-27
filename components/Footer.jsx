@@ -85,9 +85,11 @@ const Footer = () => (
       </div>
     </footer>
     <br />
-    <center>
-      <h1>Cantumin Copyright 2023 All rights reserved</h1>
-    </center>
+    <div style={{ color: 'black', backgroundColor: '#fcac3c' }}>
+      <center>
+        <h1>Cantumin Copyright 2023 All rights reserved</h1>
+      </center>
+    </div>
   </>
 );
 
