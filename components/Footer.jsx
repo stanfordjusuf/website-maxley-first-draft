@@ -84,10 +84,9 @@ const Footer = () => (
         <p className="link link-hover">081227762299</p>
       </div>
     </footer>
-    <br />
-    <div style={{ color: 'black', backgroundColor: '#fcac3c' }}>
+    <div style={{ backgroundColor: '#fcac3c' }}>
       <center>
-        <h1>Cantumin Copyright 2023 All rights reserved</h1>
+        <h1 style={{ color: 'black' }}>Cantumin Copyright 2023 All rights reserved</h1>
       </center>
     </div>
   </>
