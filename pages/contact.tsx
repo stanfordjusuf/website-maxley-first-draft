@@ -103,17 +103,6 @@ export default function contact() {
             </div>
           </div>
           <br />
-          <div className="grid grid-cols-3 content-center">
-            <p className="text-xl">
-              <a
-                href="mailto:maxleysuites@gmail.com"
-                className="hover:underline"
-              >
-                Partnership: maxleysuites@gmail.com
-              </a>
-            </p>
-          </div>
-          <br />
           <a href="https://goo.gl/maps/SAxM51p66Yasbj2L9">
             <img
               src="https://i.ibb.co/QXrSr8t/Screenshot-2023-03-19-at-14-40-46.png"
