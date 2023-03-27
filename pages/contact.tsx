@@ -40,10 +40,30 @@ export default function contact() {
             <div className="absolute left-55 pl-6">
               <p className="text-xl">
                 <a
-                  href="https://www.instagram.com/maxleysuites/"
+                  href="https://api.whatsapp.com/send/?phone=6288225924227&text&type=phone_number&app_absent=0"
                   className="hover:underline"
                 >
-                  +6288225924227 (BSD), +6285852293500 (Lippo)
+                  +6288225924227 (BSD)
+                </a>
+              </p>
+            </div>
+          </div>
+          <br />
+          <div className="grid grid-cols-3 content-center">
+            <a href="https://linktr.ee/maxleysuites">
+              <img
+                src="https://i.ibb.co/ZgDzqQC/3.png"
+                alt=""
+                style={{ width: '20px', height: 'auto' }}
+              />
+            </a>
+            <div className="absolute left-55 pl-6">
+              <p className="text-xl">
+                <a
+                  href="https://api.whatsapp.com/send/?phone=6285852293500&text&type=phone_number&app_absent=0"
+                  className="hover:underline"
+                >
+                  +6285852293500 (Lippo)
                 </a>
               </p>
             </div>
