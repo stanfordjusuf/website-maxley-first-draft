@@ -154,8 +154,8 @@ export default function rooms() {
                     <li>Balcony</li>
                     <br />
                     <li>Total Rooms:</li>
-                    <li>8 rooms available (BSD 1)</li>
-                    <li>11 rooms available (BSD 2)</li>
+                    <li>8 rooms (BSD 1)</li>
+                    <li>11 rooms (BSD 2)</li>
                   </ul>
                 </div>
               </div>
