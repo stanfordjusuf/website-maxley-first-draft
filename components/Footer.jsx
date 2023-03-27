@@ -24,7 +24,6 @@ const Footer = () => (
           Home
         </a>
       </Link>
-      <a>Cantumin Copyright</a>
     </div>
     <div className="justify-self-center">
       <Link href="/contact">
@@ -83,6 +82,8 @@ const Footer = () => (
       <p>Feedback</p>
       <p className="link link-hover">081227762299</p>
     </div>
+    <br />
+    <h1>Copyright 2023 All rights reserved</h1>
   </footer>
 );
 
