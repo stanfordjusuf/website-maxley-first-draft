@@ -36,13 +36,6 @@ export default function rooms() {
                   </div>
                   <div className="carousel-item w-full">
                     <img
-                      src="https://i.ibb.co/kBW35Nq/Screenshot-2023-03-20-at-20-00-28.png"
-                      className="w-full"
-                      alt="Tailwind CSS Carousel component"
-                    />
-                  </div>
-                  <div className="carousel-item w-full">
-                    <img
                       src="https://i.ibb.co/fxWvRPj/Screenshot-2023-03-27-at-15-22-27.png"
                       className="w-full"
                       alt="Tailwind CSS Carousel component"
@@ -91,7 +84,7 @@ export default function rooms() {
                   </div>
                   <div className="carousel-item w-full">
                     <img
-                      src="https://i.ibb.co/HC58JyX/Screenshot-2023-03-20-at-19-57-30.png"
+                      src="https://i.ibb.co/JxcLZfT/Screenshot-2023-03-28-at-11-56-57.png"
                       className="w-full"
                       alt="Tailwind CSS Carousel component"
                     />
@@ -105,21 +98,14 @@ export default function rooms() {
                   </div>
                   <div className="carousel-item w-full">
                     <img
-                      src="https://i.ibb.co/kBW35Nq/Screenshot-2023-03-20-at-20-00-28.png"
+                      src="https://i.ibb.co/zsPy4SB/Screenshot-2023-03-28-at-11-58-36.png"
                       className="w-full"
                       alt="Tailwind CSS Carousel component"
                     />
                   </div>
                   <div className="carousel-item w-full">
                     <img
-                      src="https://i.ibb.co/27wFW3t/Screenshot-2023-03-20-at-20-01-23.png"
-                      className="w-full"
-                      alt="Tailwind CSS Carousel component"
-                    />
-                  </div>
-                  <div className="carousel-item w-full">
-                    <img
-                      src="https://i.ibb.co/6BCCzKQ/Screenshot-2023-03-20-at-20-03-17.png"
+                      src="https://i.ibb.co/LCwpwYV/Screenshot-2023-03-27-at-15-20-46.png"
                       className="w-full"
                       alt="Tailwind CSS Carousel component"
                     />
