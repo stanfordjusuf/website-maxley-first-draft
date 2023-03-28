@@ -26,7 +26,7 @@ export default function about() {
           </p>
           <br />
           <p>
-            Maxley ingin mendorongproduktivitas mahasiswa dengan memberikan hunian 
+            Maxley ingin mendorong produktivitas mahasiswa dengan memberikan hunian 
             yang nyaman dengan services yang lengkap. Dimana kita tau, bahwa ide-ide 
             kreatif bermunculan jika beraktivitas di lingkungan yang nyaman tentunya. 
             Bagi Maxley produktivitas Mahasiswa sangat penting karena dari sana akan 
