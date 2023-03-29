@@ -11,7 +11,7 @@ export default function services() {
         </h1>
         <br />
         <div className="grid lg:grid-cols-2 w-screen md:grid-cols-1">
-          <div className="flex flex-col items-center">
+          <div className="flex flex-col items-center pb-8">
             <div className="card w-3/4 bg-base-100 shadow-xl h-3/4">
               <div className="card-body">
                 <div className="carousel w-full">
