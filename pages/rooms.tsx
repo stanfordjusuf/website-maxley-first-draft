@@ -10,7 +10,7 @@ export default function services() {
           Services
         </h1>
         <br />
-        <div className="grid lg:grid-cols-2 w-screen md:grid-cols-1">
+        <div className="grid lg:grid-cols-3 w-screen md:grid-cols-1">
           <div className="flex flex-col items-center">
             <div className="card w-3/4 bg-base-100 shadow-xl">
               <div className="card-body pb-100">
