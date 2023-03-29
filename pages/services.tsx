@@ -12,8 +12,8 @@ export default function services() {
         <br />
         <div className="grid lg:grid-cols-2 w-screen md:grid-cols-1">
           <div className="flex flex-col items-center">
-            <div className="card w-3/4 bg-base-100 shadow-xl h-3/4 pb-8">
-              <div className="card-body">
+            <div className="card w-3/4 bg-base-100 shadow-xl h-3/4">
+              <div className="card-body pb-100">
                 <div className="carousel w-full">
                   <div id="slide1" className="carousel-item relative w-full">
                     <img src="https://i.ibb.co/pJV6f8T/Screenshot-2023-03-20-at-20-07-34.png" className="w-full" />
@@ -49,7 +49,7 @@ export default function services() {
                   dibangun untuk mahasiswa yang membutuhkan tempat tinggal dekat
                   kampus.
                 </p>
-                <div className="card-actions justify-end pb-8">
+                <div className="card-actions justify-end">
                   <Link href="/rooms">
                     <button
                       type="button"
