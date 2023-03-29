@@ -135,7 +135,7 @@ export default function services() {
                 <div className="carousel w-full">
                   <div className="carousel-item w-full">
                     <img
-                      src="https://i.ibb.co/J3fvf8k/DSC-5809-HDR.jpg"
+                      src="https://i.ibb.co/hZw1dq3/Screenshot-2023-03-29-at-16-36-22.png"
                       className="w-full"
                       alt="Tailwind CSS Carousel component"
                     />
