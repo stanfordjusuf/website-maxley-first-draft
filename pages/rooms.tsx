@@ -106,6 +106,49 @@ export default function services() {
               </div>
             </div>
           </div>
+          <div className="flex flex-col items-center">
+            <div className="card w-3/4 bg-base-100 shadow-xl">
+              <div className="card-body pb-100">
+                <div className="carousel w-full">
+                  <div id="slide1" className="carousel-item relative w-full">
+                    <img src="https://i.ibb.co/HC58JyX/Screenshot-2023-03-20-at-19-57-30.png" className="w-full" />
+                    <div className="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
+                    </div>
+                  </div> 
+                  <div id="slide2" className="carousel-item relative w-full">
+                    <img src="https://i.ibb.co/cTDFFRG/Screenshot-2023-03-20-at-19-59-28.png" className="w-full" />
+                    <div className="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
+                    </div>
+                  </div> 
+                  <div id="slide3" className="carousel-item relative w-full">
+                    <img src="https://i.ibb.co/27wFW3t/Screenshot-2023-03-20-at-20-01-23.png" className="w-full" />
+                    <div className="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
+                    </div>
+                  </div> 
+                  <div id="slide4" className="carousel-item relative w-full">
+                    <img src="https://i.ibb.co/6BCCzKQ/Screenshot-2023-03-20-at-20-03-17.png" className="w-full" />
+                    <div className="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
+                    </div>
+                  </div>
+                  <div id="slide4" className="carousel-item relative w-full">
+                    <img src="https://i.ibb.co/kBW35Nq/Screenshot-2023-03-20-at-20-00-28.png" className="w-full" />
+                    <div className="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
+                    </div>
+                  </div>
+                </div>
+                <h2 className="card-title underline">Fasilitas</h2>
+                <p style={{ color: 'white' }}>
+                  Tidak hanya kamar tidur, Maxley juga menyediakan berbagai
+                  fasilitas untuk Mahasiswa demi memenuhi kenyamanan dan
+                  kebutuhan Mahasiswa selama menjalani kehidupan kampus.
+                  Fasilitas: gym, billiard, study room, communal area, free 
+                  laundry, free cleaning room, wifi, security 
+                  24 hours, dispenser, refrigerator, electricity.
+                </p>
+                <br />
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </>
