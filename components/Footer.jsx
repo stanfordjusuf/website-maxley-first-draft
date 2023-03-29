@@ -32,7 +32,7 @@ const Footer = () => (
             Contact
           </a>
         </Link>
-        <div className="grid grid-flow-col gap-4">
+        <div className="grid grid-flow-col gap-4 lg:pr-10">
           <a href="https://www.instagram.com/maxleysuites/">
             <img
               src="https://i.ibb.co/d2vBPhL/1.png"
