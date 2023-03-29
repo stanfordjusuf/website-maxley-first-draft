@@ -49,7 +49,7 @@ export default function services() {
                   dibangun untuk mahasiswa yang membutuhkan tempat tinggal dekat
                   kampus.
                 </p>
-                <div className="card-actions justify-end">
+                <div className="card-actions justify-end pb-8">
                   <Link href="/rooms">
                     <button
                       type="button"
@@ -62,7 +62,6 @@ export default function services() {
                 </div>
               </div>
             </div>
-            <br />
           </div>
           <div className="flex flex-col items-center">
             <div className="card w-3/4 bg-base-100 shadow-xl h-3/4">
