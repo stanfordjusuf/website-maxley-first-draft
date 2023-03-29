@@ -11,7 +11,7 @@ export default function services() {
         </h1>
         <br />
         <div className="grid lg:grid-cols-3 w-screen md:grid-cols-1">
-          <div className="flex flex-col items-center">
+          <div className="flex flex-col items-center sm:pb-10">
             <div className="card w-3/4 bg-base-100 shadow-xl">
               <div className="card-body pb-100">
                 <div className="carousel w-full">
@@ -70,7 +70,7 @@ export default function services() {
               </div>
             </div>
           </div>
-          <div className="flex flex-col items-center">
+          <div className="flex flex-col items-center sm:pb-10">
             <div className="card w-3/4 bg-base-100 shadow-xl">
               <div className="card-body pb-100">
                 <div className="carousel w-full">
@@ -129,7 +129,7 @@ export default function services() {
               </div>
             </div>
           </div>
-          <div className="flex flex-col items-center">
+          <div className="flex flex-col items-center sm:pb-10">
             <div className="card w-3/4 bg-base-100 shadow-xl">
               <div className="card-body pb-100">
                 <div className="carousel w-full">
