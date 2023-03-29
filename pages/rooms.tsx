@@ -10,7 +10,7 @@ export default function services() {
           Rooms
         </h1>
         <br />
-        <div className="grid lg:grid-cols-3 w-screen md:grid-cols-1 sm:space-y-6">
+        <div className="grid lg:grid-cols-3 w-screen md:grid-cols-1 sm:space-y-4">
           <div className="flex flex-col items-center">
             <div className="card w-3/4 bg-base-100 shadow-xl">
               <div className="card-body pb-100">
