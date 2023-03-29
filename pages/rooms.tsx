@@ -1,190 +1,108 @@
 import React from 'react';
+import Link from 'next/link';
 
-export default function rooms() {
+export default function services() {
   return (
     <>
       <br />
       <div>
-        <h1 className="text-4xl underline decoration-[#f86c04] font-bold text-center">
-          Rooms
+        <h1 className="text-4xl font-bold underline decoration-[#f86c04] text-center">
+          Services
         </h1>
-        <div className="grid grid-rows-3 p-4">
-          <div>
-            <div className="card lg:card-side bg-base-100 shadow-xl">
-              <figure className="lg:w-1/3 md:w-full">
-                <div className="w-128 carousel rounded-box">
-                   <div className="carousel-item w-full">
-                    <img
-                      src="https://i.ibb.co/C54L36G/Single-Bed.jpg"
-                      className="w-full"
-                      alt="Tailwind CSS Carousel component"
-                    />
+        <br />
+        <div className="grid lg:grid-cols-2 w-screen md:grid-cols-1">
+          <div className="flex flex-col items-center">
+            <div className="card w-3/4 bg-base-100 shadow-xl">
+              <div className="card-body pb-100">
+                <div className="carousel w-full">
+                  <div id="slide1" className="carousel-item relative w-full">
+                    <img src="https://i.ibb.co/pJV6f8T/Screenshot-2023-03-20-at-20-07-34.png" className="w-full" />
+                    <div className="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
+                    </div>
+                  </div> 
+                  <div id="slide2" className="carousel-item relative w-full">
+                    <img src="https://i.ibb.co/jTGdVT5/Screenshot-2023-03-20-at-20-07-03.png" className="w-full" />
+                    <div className="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
+                    </div>
+                  </div> 
+                  <div id="slide3" className="carousel-item relative w-full">
+                    <img src="https://i.ibb.co/sFQdjjD/Screenshot-2023-03-20-at-20-06-09.png" className="w-full" />
+                    <div className="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
+                    </div>
+                  </div> 
+                  <div id="slide4" className="carousel-item relative w-full">
+                    <img src="https://i.ibb.co/LCwpwYV/Screenshot-2023-03-27-at-15-20-46.png" className="w-full" />
+                    <div className="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
+                    </div>
                   </div>
-                  <div className="carousel-item w-full">
-                    <img
-                      src="https://i.ibb.co/cg1t9Xj/Screenshot-2023-03-28-at-11-51-09.png"
-                      className="w-full"
-                      alt="Tailwind CSS Carousel component"
-                    />
-                  </div>
-                  <div className="carousel-item w-full">
-                    <img
-                      src="https://i.ibb.co/kqcWMM3/Screenshot-2023-03-28-at-11-52-21.png"
-                      className="w-full"
-                      alt="Tailwind CSS Carousel component"
-                    />
-                  </div>
-                  <div className="carousel-item w-full">
-                    <img
-                      src="https://i.ibb.co/fxWvRPj/Screenshot-2023-03-27-at-15-22-27.png"
-                      className="w-full"
-                      alt="Tailwind CSS Carousel component"
-                    />
+                  <div id="slide4" className="carousel-item relative w-full">
+                    <img src="https://i.ibb.co/fxWvRPj/Screenshot-2023-03-27-at-15-22-27.png" className="w-full" />
+                    <div className="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
+                    </div>
                   </div>
                 </div>
-              </figure>
-              <div className="card-body">
-                <h2 className="card-title text-2xl underline decoration-[#f86c04]">
-                  Single Bed
-                </h2>
-                <div style={{ color: 'white' }}>
-                  <p className="text-lg font-bold" style={{ color: 'orange' }}>
-                    Description:
-                  </p>
-                  <ul className="text-lg">
-                    <li>Room size 6x3</li>
-                    <li>1 Pillow</li>
-                    <li>Bed (160 x 200 cm)</li>
-                    <li>Table + Chair</li>
-                    <li>Wardrobe</li>
-                    <li>Rubbish Bin</li>
-                    <li>Air Conditioner</li>
-                    <li>Bathroom</li>
-                    <li>Water Heater</li>
-                    <li>Balcony</li>
-                    <br />
-                    <li>Total Rooms:</li>
-                    <li>98 rooms (BSD 1)</li>
-                    <li>49 rooms (BSD 2)</li>
-                  </ul>
+                <h2 className="card-title underline">Rooms</h2>
+                <p style={{ color: 'white' }}>
+                  Maxley menyediakan 200 kamar dengan berbagai tipe seperti
+                  Single Bed, Double Bed dan Suites Room dengan kapasitas
+                  maksimum 2 orang. Maxley merupakan Student Domitory yang
+                  dibangun untuk mahasiswa yang membutuhkan tempat tinggal dekat
+                  kampus.
+                </p>
+                <div className="card-actions justify-end">
+                  <Link href="/rooms">
+                    <button
+                      type="button"
+                      className="btn bg-[#f86c04]"
+                      style={{ color: 'black' }}
+                    >
+                      Explore
+                    </button>
+                  </Link>
                 </div>
               </div>
             </div>
           </div>
-          <div>
-            <div className="card lg:card-side bg-base-100 shadow-xl">
-              <figure className="lg:w-1/3 md:w-full">
-                 <div className="w-128 carousel rounded-box">
-                   <div className="carousel-item w-full">
-                    <img
-                      src="https://i.ibb.co/3WSs9sm/IMG-4634.jpg"
-                      className="w-full"
-                      alt="Tailwind CSS Carousel component"
-                    />
+          <div className="flex flex-col items-center">
+            <div className="card w-3/4 bg-base-100 shadow-xl">
+              <div className="card-body pb-100">
+                <div className="carousel w-full">
+                  <div id="slide1" className="carousel-item relative w-full">
+                    <img src="https://i.ibb.co/HC58JyX/Screenshot-2023-03-20-at-19-57-30.png" className="w-full" />
+                    <div className="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
+                    </div>
+                  </div> 
+                  <div id="slide2" className="carousel-item relative w-full">
+                    <img src="https://i.ibb.co/cTDFFRG/Screenshot-2023-03-20-at-19-59-28.png" className="w-full" />
+                    <div className="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
+                    </div>
+                  </div> 
+                  <div id="slide3" className="carousel-item relative w-full">
+                    <img src="https://i.ibb.co/27wFW3t/Screenshot-2023-03-20-at-20-01-23.png" className="w-full" />
+                    <div className="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
+                    </div>
+                  </div> 
+                  <div id="slide4" className="carousel-item relative w-full">
+                    <img src="https://i.ibb.co/6BCCzKQ/Screenshot-2023-03-20-at-20-03-17.png" className="w-full" />
+                    <div className="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
+                    </div>
                   </div>
-                  <div className="carousel-item w-full">
-                    <img
-                      src="https://i.ibb.co/JxcLZfT/Screenshot-2023-03-28-at-11-56-57.png"
-                      className="w-full"
-                      alt="Tailwind CSS Carousel component"
-                    />
-                  </div>
-                  <div className="carousel-item w-full">
-                    <img
-                      src="https://i.ibb.co/zsPy4SB/Screenshot-2023-03-28-at-11-58-36.png"
-                      className="w-full"
-                      alt="Tailwind CSS Carousel component"
-                    />
-                  </div>
-                  <div className="carousel-item w-full">
-                    <img
-                      src="https://i.ibb.co/LCwpwYV/Screenshot-2023-03-27-at-15-20-46.png"
-                      className="w-full"
-                      alt="Tailwind CSS Carousel component"
-                    />
+                  <div id="slide4" className="carousel-item relative w-full">
+                    <img src="https://i.ibb.co/kBW35Nq/Screenshot-2023-03-20-at-20-00-28.png" className="w-full" />
+                    <div className="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
+                    </div>
                   </div>
                 </div>
-              </figure>
-              <div className="card-body">
-                <h2 className="card-title text-2xl underline decoration-[#f86c04]">
-                  Double Bed
-                </h2>
-                <div style={{ color: 'white' }}>
-                  <p className="text-lg font-bold" style={{ color: 'orange' }}>
-                    Description:
-                  </p>
-                  <ul className="text-lg">
-                    <li>Room Size 6x3</li>
-                    <li>2 Bed (120 x 200 cm)</li>
-                    <li>2 Pillow</li>
-                    <li>Table + Chair</li>
-                    <li>Wardrobe</li>
-                    <li>Rubbish Bin</li>
-                    <li>Air Conditioner</li>
-                    <li>Bathroom</li>
-                    <li>Water Heater</li>
-                    <li>Balcony</li>
-                    <br />
-                    <li>Total Rooms:</li>
-                    <li>8 rooms (BSD 1)</li>
-                    <li>11 rooms (BSD 2)</li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div>
-            <div className="card lg:card-side bg-base-100 shadow-xl">
-              <figure className="lg:w-1/3 md:w-full">
-                 <div className="w-128 carousel rounded-box">
-                   <div className="carousel-item w-full">
-                    <img
-                      src="https://i.ibb.co/J3fvf8k/DSC-5809-HDR.jpg"
-                      className="w-full"
-                      alt="Tailwind CSS Carousel component"
-                    />
-                  </div>
-                  <div className="carousel-item w-full">
-                    <img
-                      src="https://i.ibb.co/yYjYqM4/DSC-5818-HDR.jpg"
-                      className="w-full"
-                      alt="Tailwind CSS Carousel component"
-                    />
-                  </div>
-                  <div className="carousel-item w-full">
-                    <img
-                      src="https://i.ibb.co/v3KgQHp/Screenshot-2023-03-28-at-12-04-10.png"
-                      className="w-full"
-                      alt="Tailwind CSS Carousel component"
-                    />
-                  </div>
-                </div>
-              </figure>
-              <div className="card-body">
-                <h2 className="card-title text-2xl underline decoration-[#f86c04]">
-                  Suite Room
-                </h2>
-                <div style={{ color: 'white' }}>
-                  <p className="text-lg font-bold" style={{ color: 'orange' }}>
-                    Description:
-                  </p>
-                  <ul className="text-lg">
-                    <li>Room Size 7x3</li>
-                    <li>Bed (180 x 200 cm)</li>
-                    <li>1 Pillow</li>
-                    <li>Table + Chair</li>
-                    <li>Wardrobe</li>
-                    <li>Rubbish Bin</li>
-                    <li>Air Conditioner</li>
-                    <li>Bathroom</li>
-                    <li>Water Heater</li>
-                    <li>Balcony</li>
-                    <br />
-                    <li>Total Rooms:</li>
-                    <li>21 rooms (BSD 1)</li>
-                    <li> 13 rooms (BSD 2)</li>
-                  </ul>
-                </div>
+                <h2 className="card-title underline">Fasilitas</h2>
+                <p style={{ color: 'white' }}>
+                  Tidak hanya kamar tidur, Maxley juga menyediakan berbagai
+                  fasilitas untuk Mahasiswa demi memenuhi kenyamanan dan
+                  kebutuhan Mahasiswa selama menjalani kehidupan kampus.
+                  Fasilitas: gym, billiard, study room, communal area, free 
+                  laundry, free cleaning room, wifi, security 
+                  24 hours, dispenser, refrigerator, electricity.
+                </p>
+                <br />
               </div>
             </div>
           </div>
