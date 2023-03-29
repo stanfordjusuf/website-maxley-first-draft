@@ -12,7 +12,7 @@ export default function services() {
         <br />
         <div className="flex flex-col grid lg:grid-cols-3 w-screen md:grid-cols-1 space-y-4">
           <div className="flex flex-col items-center">
-            <div className="card w-3/4 bg-base-100 shadow-xl lg:mt-10">
+            <div className="card w-3/4 bg-base-100 shadow-xl lg:mt-5">
               <div className="card-body pb-100">
                 <div className="carousel w-full">
                   <div className="carousel-item w-full">
