@@ -64,8 +64,8 @@ export default function services() {
             </div>
           </div>
           <div className="flex flex-col items-center">
-            <div className="card w-3/4 bg-base-100 shadow-xl h-3/4">
-              <div className="card-body">
+            <div className="card w-3/4 bg-base-100 shadow-xl">
+              <div className="card-body pb-100">
                 <div className="carousel w-full">
                   <div id="slide1" className="carousel-item relative w-full">
                     <img src="https://i.ibb.co/HC58JyX/Screenshot-2023-03-20-at-19-57-30.png" className="w-full" />
