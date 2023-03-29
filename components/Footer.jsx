@@ -26,7 +26,7 @@ const Footer = () => (
           </a>
         </Link>
       </div>
-      <div className="justify-self-center lg:pr-30">
+      <div className="justify-self-center lg:pr-25">
         <Link href="/contact">
           <a href="md:float-right mt-2 align-middle ml-4 font-semibold cursor-pointer">
             Contact
